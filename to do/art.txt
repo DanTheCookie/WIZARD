@@ -1,0 +1,11 @@
+player based:
+wands
+environment:
+grassy land
+bolders
+mountains
+UI:
+hp
+inventory
+items
+

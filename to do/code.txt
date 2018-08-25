@@ -1,0 +1,4 @@
+shooting
+hp
+map interactions
+crafting
